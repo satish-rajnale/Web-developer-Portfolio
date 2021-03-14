@@ -1,5 +1,5 @@
 {
-  "name": "personalportfolio",
+  "name": "satish-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,8 +27,8 @@
       "last 1 safari version"
     ]
   },
-  "description": "![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true \"ReactJS Resume Website Template\")",
+  "description": "Portfolio made with reactjs",
   "main": "index.js",
-  "author": "",
+  "author": "satish",
   "license": "ISC"
 }
