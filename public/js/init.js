@@ -11,7 +11,7 @@
 ------------------------------------------------------ */
 
     setTimeout(function() {
-	   $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '90px' });
+	   $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '40px' });
 	 }, 100);
 
 
@@ -106,7 +106,7 @@
 
        type:'inline',
        fixedContentPos: false,
-       removalDelay: 200,
+       removalDelay: 10,
        showCloseBtn: false,
        mainClass: 'mfp-fade'
 
