@@ -69,6 +69,12 @@
                 "url": ""
             },
             {
+                "title": "Netflix Clone",
+                "category": "Netflix Clone built with ReactJS",
+                "image": "netflix.png",
+                "url": "https://github.com/satish-rajnale/netflix"
+            },
+            {
                 "title": "Robinhood Clone",
                 "category": "Robinhood Clone built with ReactJS",
                 "image": "robinhood.jpg",
