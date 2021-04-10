@@ -3,7 +3,7 @@
 
 
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 904px) {
 
 
    header .banner-text h1 {
@@ -35,7 +35,7 @@
    }
    /* nav-wrap */
    #nav-wrap {
-      font: 11px 'opensans-bold', sans-serif;
+      font: 20px 'opensans-bold', sans-serif;
       letter-spacing: 1.5px;
    }
 
@@ -197,7 +197,7 @@
    /* header social links */
    header .social {
       margin: 18px 0 24px 0;
-      font-size: 24px;
+      font-size: 27px;
       line-height: 36px;      
    }
    header .social li { margin: 0 10px; }
@@ -353,7 +353,7 @@
    }
   
    /* header social links */
-   header .social { font-size: 20px;}
+   header .social { font-size: 22px;}
    header .social li { margin: 0 6px; }
 
    /* footer

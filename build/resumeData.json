@@ -23,7 +23,7 @@
             },
             {
                 "name": "linkedin",
-                "url": "",
+                "url": "https://linkedin.com/in/satish-rajnale-676a201b1",
                 "className": "fa fa-linkedin"
             },
             {
@@ -33,7 +33,7 @@
             },
             {
                 "name": "github",
-                "url": "",
+                "url": "https://github.com/satish-rajnale",
                 "className": "fa fa-github"
             }
         ]
@@ -50,12 +50,12 @@
             "company": "Self",
             "title": "JavaScript Developer",
             "years": "Jan 2019 - Present",
-            "description": "Developing user interactive and responsive web designs using javascript.Also creating simple animations using Js."
+            "description": "Developing Ui/Ux designs. Learning new things, Listening music. "
         },{
             "company": "",
             "title": "Reactjs Developer",
             "years": "Dec 2020 - Present",
-            "description": "Developing user interactive and responsive web apps using reactjs."
+            "description": "Developing responsive web apps using reactjs. Visit my Github profile for my projects."
      
         }
     ]
@@ -67,6 +67,12 @@
                 "category": "Zoom Clone built with NodeJS",
                 "image": "zoom.jpg",
                 "url": ""
+            },
+            {
+                "title": "Netflix Clone",
+                "category": "Netflix Clone built with ReactJS",
+                "image": "netflix.jpg",
+                "url": "https://github.com/satish-rajnale/netflix"
             },
             {
                 "title": "Robinhood Clone",
