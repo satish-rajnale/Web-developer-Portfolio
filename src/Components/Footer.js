@@ -24,7 +24,7 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>&copy; All credit goes to Satish Rajnale- Copyright 2020 Satish Rajnale</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>Design by <a title="Styleshout" href="#">Satish</a></li>
            </ul>
 
         </div>

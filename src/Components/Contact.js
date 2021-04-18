@@ -7,7 +7,7 @@ const Contact = ({ data }) => {
    const [email, setEmail] = useState('');
    const [message, setMessage] = useState('');
 
-   console.log(data)
+
 
     const handleClick = (e) => {
        e.preventDefault();
@@ -63,7 +63,7 @@ const Contact = ({ data }) => {
                   <div>
                      <button type='submit' onClick={handleClick} className="submit">Submit</button>
                      <span id="image-loader">
-                        <img alt="" src="images/loader.gif" />
+                        <img alt="loading" src="images/loader.gif" />
                      </span>
                   </div>
 					</fieldset>

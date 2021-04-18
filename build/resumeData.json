@@ -15,7 +15,7 @@
             "zip": "400001"
         },
         "website": "",
-        "resumedownload": "",
+        "resumedownload": "https://my.indeed.com/p/satishr-ankl65r",
         "social": [{
                 "name": "facebook",
                 "url": "",
@@ -39,7 +39,7 @@
         ]
     },
     "resume": {
-        "skillmessage": "",
+        "skillmessage": "Professional Front end Developer",
         "education": [{
             "school": "Atharva College of Engineering",
             "degree": "Bachelor's Degree, Extc",
