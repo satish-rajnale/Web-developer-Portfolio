@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #7532e0; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #4a9fff; }
 
 
 /* ------------------------------------------------------------------ */
@@ -325,7 +325,7 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
-/*
+/* 
 .git {
   	-moz-animation: git 2s ease;
   	-webkit-animation: git 2s ease;
@@ -809,7 +809,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #8418ff; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {

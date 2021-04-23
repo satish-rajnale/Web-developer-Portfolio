@@ -102,7 +102,7 @@ ins {
 }
 
 mark {
-   background-color: #A7F4F6;
+   background-color: #adfcff;
    color: #555;
 }
 
@@ -464,7 +464,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: #5514ce;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
@@ -535,12 +535,12 @@ input[type="email"],
 textarea,
 select {
    display: block;
-   padding: 18px 15px;
-   margin: 0 0 24px 0;
+   padding: 12px 7px;
+   margin: 0 0 14px 0;
    border: 0;
    outline: none;
    vertical-align: middle;
-   min-width: 225px;
+   min-width: 6em;
 	max-width: 100%;
    font-size: 15px;
    line-height: 24px;

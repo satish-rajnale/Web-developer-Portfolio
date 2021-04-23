@@ -42,7 +42,7 @@ const Contact = ({ data }) => {
 
                   <div>
 						   <label htmlFor="contactName">Name <span className="required">*</span></label>
-						   <input value={name} type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={e => setName(e.target.value)}/>
+						   <input value={name} type="text" defaultValue="" size="25" id="contactName" name="contactName" onChange={e => setName(e.target.value)}/>
                   </div>
 
                   <div>
